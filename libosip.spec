@@ -27,7 +27,7 @@ SIP is described in the RFC2543 which is available at
 http://www.ietf.org/rfc/rfc2543.txt.
 
 %package -n %libname
-Summary:        Header file required to build programs using liboSIP.
+Summary:        Header file required to build programs using liboSIP
 Group:          System/Libraries
 
 %description -n %libname
@@ -38,7 +38,7 @@ SIP is described in the RFC2543 which is available at
 http://www.ietf.org/rfc/rfc2543.txt.
 
 %package -n %libnamedev
-Summary:	Header file required to build programs using liboSIP.
+Summary:	Header file required to build programs using liboSIP
 Group:		System/Libraries 
 Provides: libosip-devel
 Requires: %libname = %version
