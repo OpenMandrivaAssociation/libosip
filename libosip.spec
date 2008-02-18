@@ -9,7 +9,7 @@
 %define libnamedev %mklibname %{fakename} %major -d
 
 Name:		%name
-Summary:	oSIP is an implementation of SIP - rfc2543. 
+Summary:	Implementation of SIP - rfc2543. 
 Version: 	%version
 Release: 	%release
 License: 	LGPL
