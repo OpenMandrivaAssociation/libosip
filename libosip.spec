@@ -1,6 +1,6 @@
 %define name	libosip
 %define version	0.9.7
-%define release	%mkrel 8
+%define release	%mkrel 9
 
 %define fakename osip
 
