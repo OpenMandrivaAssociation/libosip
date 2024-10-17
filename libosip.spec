@@ -15,7 +15,7 @@ Release: 	%release
 License: 	LGPL
 Group:		System/Libraries
 Source0:	%{name}-%{version}.tar.bz2
-URL: 		http://osip.atosc.org/
+URL: 		https://osip.atosc.org/
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	docbook-utils docbook-dtd41-sgml
 
