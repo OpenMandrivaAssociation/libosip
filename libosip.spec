@@ -17,6 +17,11 @@ Group:		System/Libraries
 Source0:	%{name}-%{version}.tar.bz2
 URL: 		https://osip.atosc.org/
 BuildRoot:	%{_tmppath}/%{name}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	docbook-utils docbook-dtd41-sgml
 
 %description
